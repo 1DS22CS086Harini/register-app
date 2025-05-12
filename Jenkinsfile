@@ -98,7 +98,7 @@ pipeline {
 //                 }
 //             }
 //        }
-//     }
+   }
 
 //     post {
 //        failure {
@@ -112,5 +112,4 @@ pipeline {
 //                      mimeType: 'text/html',to: "ashfaque.s510@gmail.com"
 //       }      
 //    }
-// }
     }
